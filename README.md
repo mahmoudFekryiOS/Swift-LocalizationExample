@@ -2,7 +2,10 @@
 This framework is easy for impementation, you add one line in any viewController and framwork reload all text and flip to right in Arabic language
 
 # In your  ViewController add this line
- self.setCurrentLanguage(languageKey: "ar-EG")
+* import Localization
+
+ * self.setCurrentLanguage(languageKey: "ar-EG")
+
  
 Laguage key is your localization key language like ("fr" , "en" , "ar-EG" others )
 
