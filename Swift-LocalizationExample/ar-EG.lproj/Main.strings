@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; normalTitle = "Arabic"; ObjectID = "082-iH-EeQ"; */
+"082-iH-EeQ.normalTitle" = "العربيه";
+
+/* Class = "UIButton"; normalTitle = "go to English Arabic"; ObjectID = "FZi-to-wyk"; */
+"FZi-to-wyk.normalTitle"= "الذهاب لتغيير العربى";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "HBc-E1-g9o"; */
+"HBc-E1-g9o.normalTitle" = "الإنجليزية";
+
+/* Class = "UIButton"; normalTitle = "back"; ObjectID = "RZ3-PC-bWY"; */
+"RZ3-PC-bWY.normalTitle" = "عودة";
+
+/* Class = "UILabel"; text = "We are in left aligment"; ObjectID = "ao1-Y5-1Gk"; */
+"ao1-Y5-1Gk.text" = "النص محاذ الى اليمين";
+
+/* Class = "UILabel"; text = "We are in left aligment"; ObjectID = "pjn-Dj-ZTN"; */
+"pjn-Dj-ZTN.text" = "النص محاذ الى اليمين";

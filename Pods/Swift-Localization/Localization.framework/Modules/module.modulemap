@@ -1,0 +1,11 @@
+framework module Localization {
+  umbrella header "Localization.h"
+
+  export *
+  module * { export * }
+}
+
+module Localization.Swift {
+    header "Localization-Swift.h"
+    requires objc
+}

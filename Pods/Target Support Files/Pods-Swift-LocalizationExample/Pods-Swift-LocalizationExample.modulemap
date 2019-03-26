@@ -1,0 +1,6 @@
+framework module Pods_Swift_LocalizationExample {
+  umbrella header "Pods-Swift-LocalizationExample-umbrella.h"
+
+  export *
+  module * { export * }
+}

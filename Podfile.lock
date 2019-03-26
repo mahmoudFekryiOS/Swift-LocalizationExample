@@ -1,0 +1,16 @@
+PODS:
+  - Swift-Localization (1.0.2)
+
+DEPENDENCIES:
+  - Swift-Localization
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Swift-Localization
+
+SPEC CHECKSUMS:
+  Swift-Localization: eff0f973aa7fb9795131e4a1d5de91379f2ddd79
+
+PODFILE CHECKSUM: 75d4c9a7eae08e09f7bcb4a61820802423e15d57
+
+COCOAPODS: 1.7.0.beta.1
