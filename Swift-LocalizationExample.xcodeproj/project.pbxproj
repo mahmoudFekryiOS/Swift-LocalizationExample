@@ -65,15 +65,39 @@
 		3B035F86224A322B00D0D11D /* Swift-LocalizationExample */ = {
 			isa = PBXGroup;
 			children = (
-				3B035F87224A322B00D0D11D /* AppDelegate.swift */,
-				3B035F99224A326700D0D11D /* EnglishArabicVC.swift */,
-				3B035F89224A322B00D0D11D /* ViewController.swift */,
-				3B035F8B224A322B00D0D11D /* Main.storyboard */,
-				3B035F8E224A322D00D0D11D /* Assets.xcassets */,
-				3B035F90224A322D00D0D11D /* LaunchScreen.storyboard */,
-				3B035F93224A322D00D0D11D /* Info.plist */,
+				3BDAB1BE224D137800DC1F88 /* Suporting Files */,
+				3BDAB1BF224D138800DC1F88 /* ViewControlles=rs */,
+				3BDAB1C0224D139A00DC1F88 /* Storyboard */,
 			);
 			path = "Swift-LocalizationExample";
+			sourceTree = "<group>";
+		};
+		3BDAB1BE224D137800DC1F88 /* Suporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				3B035F87224A322B00D0D11D /* AppDelegate.swift */,
+				3B035F8E224A322D00D0D11D /* Assets.xcassets */,
+				3B035F93224A322D00D0D11D /* Info.plist */,
+			);
+			path = "Suporting Files";
+			sourceTree = "<group>";
+		};
+		3BDAB1BF224D138800DC1F88 /* ViewControlles=rs */ = {
+			isa = PBXGroup;
+			children = (
+				3B035F99224A326700D0D11D /* EnglishArabicVC.swift */,
+				3B035F89224A322B00D0D11D /* ViewController.swift */,
+			);
+			path = "ViewControlles=rs";
+			sourceTree = "<group>";
+		};
+		3BDAB1C0224D139A00DC1F88 /* Storyboard */ = {
+			isa = PBXGroup;
+			children = (
+				3B035F90224A322D00D0D11D /* LaunchScreen.storyboard */,
+				3B035F8B224A322B00D0D11D /* Main.storyboard */,
+			);
+			path = Storyboard;
 			sourceTree = "<group>";
 		};
 		476C3556515B0AD3B10A4765 /* Frameworks */ = {
